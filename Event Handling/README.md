@@ -1,4 +1,4 @@
-# Event Handling Practice
+# Event Handling 
 
 This project demonstrates how to handle different types of events in JavaScript. The webpage includes buttons that respond to `click`, `mouseover`, `mouseout`, and `dblclick` events. Each event triggers a different action, showcasing various event handling techniques.
 
